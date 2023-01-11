@@ -2,7 +2,8 @@
 RL-Legalizer: Reinforcement Learning-based Mixed-Height Standard Cell Legalization
 
 ## Contact
-This project is implemented by Sung-Yun Lee and Seonghyeon Park (Ph.D. Advisor: Prof. Seokhyeong Kang) \
+This project is implemented by Sung-Yun Lee and Seonghyeon Park (Ph.D. Advisor: Prof. Seokhyeong Kang). \
+CAD & SoC Design Lab., POSTECH, Rep. of Korea. ([link](http://csdl.postech.ac.kr)) \
 Contact: syun.lee@postech.ac.kr
 
 ## Reference paper
