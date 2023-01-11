@@ -10,7 +10,7 @@ S.-Y. Lee, S. Park, D. Kim, M. Kim, T. P. Le, S. Kang, "RL-Legalizer: Reinforcem
 
 ## Based legalization algorithm
 [OpenDP](https://github.com/sanggido/OpenDP) \
-S. Do et al. "Fence-region-aware mixed-height standard cell legalization,” in GLSVLSI 2019 ([link](https://dl.acm.org/doi/10.1145/3299874.3318012))
+S. Do et al. "Fence-region-aware mixed-height standard cell legalization,” in GLSVLSI 2019 ([link](https://dl.acm.org/doi/10.1145/3299874.3318012)) \
 This legalizer has been embedded in [OpenROAD](https://github.com/The-OpenROAD-Project/OpenROAD/tree/master/src/dpl)
 
 ## Code description
