@@ -9,7 +9,7 @@ Contact: syun.lee@postech.ac.kr
 ## Reference paper
 Title: "RL-Legalizer: Reinforcement Learning-based Cell Priority Optimization in Mixed-Height Standard Cell Legalization" \
 Authors: S.-Y. Lee, S. Park, D. Kim, M. Kim, T. P. Le and S. Kang \
-Conference: 2023 26th IEEE/ACM Design, Automation and Test in Europe Conference \& Exhibition (DATE 2023) (to appear)
+Conference: 2023 26th IEEE/ACM Design, Automation and Test in Europe Conference \& Exhibition (DATE 2023) ([link](https://ieeexplore.ieee.org/abstract/document/10136947))
 
 ## Based legalization algorithm
 [OpenDP: Open Source Detailed Placement Engine](https://github.com/sanggido/OpenDP) \
